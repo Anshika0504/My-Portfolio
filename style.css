@@ -210,6 +210,7 @@ text-decoration: underline;
 .namef{
     text-align: center;
     margin-top:30px;
+    text-decoration: underline;
 }
 .imagesf{
     display:flex;
